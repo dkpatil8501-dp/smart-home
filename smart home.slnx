@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="smart home.csproj">
+    <Deploy />
+  </Project>
+</Solution>
